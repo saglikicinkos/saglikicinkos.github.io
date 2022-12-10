@@ -1,0 +1,49 @@
+title: Kosu Blogu
+description: Hayat bir maraton
+author:
+  email: saglikicinkos[at]gmail[dot]com
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+# Minima social links
+twitter_username: saglikicinkos
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+
+
+## Footer nav
+#navigation_footer:
+#- title: Back to top
+#  url: "#top"
+
+## Collections
+#collections:
+#  posts:
+#    title: Posts
+#    output: true
+#    description: "My thoughts and ideas"
+#    feature_text: |
+#      Welcome to my blog
+#    feature_image: "https://picsum.photos/2560/600?image=866"

@@ -20,8 +20,8 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
-  - _pages/about.md
+  - _pages/anasayfa.md
+  - _pages/hakkimizda.md
   
 include:
     - _pages

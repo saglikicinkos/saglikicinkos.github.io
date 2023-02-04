@@ -1,4 +1,4 @@
-title: SaglikIcinKos!
+title: saglikicinkos!
 description: Hayat bir maraton
 author: Mahir
 email: saglikicinkos@gmail.com
@@ -25,6 +25,8 @@ header_pages:
   
 include:
     - _pages
+    - blog_posts
+    - _assets
 
 exclude: 
     - .gitignore

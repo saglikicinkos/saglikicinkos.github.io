@@ -25,7 +25,7 @@ header_pages:
   
 include:
     - _pages
-    - blog_posts
+    - _posts
     - _assets
 
 exclude: 

@@ -14,5 +14,3 @@ list_title: Blog
   gtag('config', 'G-5XCEL8VMFG');
 </script>
 
-
-[Ne Evrimle Ne de Evrimsiz: Atalarımızdan Günümüze Koşu](_posts/article1.md) 

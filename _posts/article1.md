@@ -1,4 +1,7 @@
-## **Ne Evrimle Ne de Evrimsiz: Atalarımızdan Günümüze Koşu**
+---
+layout: post
+title:  "Ne Evrimle Ne de Evrimsiz: Atalarımızdan Günümüze Koşu"
+---
 
 Gelin bundan bir milyon yıl önceye gittiğimiz bir düşünce deneyi yapalım. Ailemizin de dahil olduğu 40-50 kişilik bir kabileyle yaşıyoruz. Hayatta kalmak için iki temel amacımız var; bir sonraki ogünümüzü bulmak, ve başka bir hayvanın bir sonraki öğünü olmamak. Hayvanları öldürecek alet ve edevatımız yok. Bu yüzden çoğunlukla bitkilerle, bulabilirsek de ölü hayvan artıklarıyla besleniyoruz. Hayvanların etleri ve kemik ilikleri bitkilere göre daha kalorili ve daha doyurucular. Değerli oldukları için yerlerini tespit etme yöntemleri geliştirdik. Akbabaların ölen hayvanların üzerinde uçtuğunu biliyoruz ve gün içinde dinlendiğimiz yerleri yüksek tepeler seçiyoruz ki sürekli gökyüzündeki kuşları gözlemleyebilelim. 
 

@@ -15,4 +15,4 @@ list_title: Blog
 </script>
 
 
-[Ne Evrimle Ne de Evrimsiz: Atalarımızdan Günümüze Koşu](blog_posts/article1.md) 
+[Ne Evrimle Ne de Evrimsiz: Atalarımızdan Günümüze Koşu](_posts/article1.md) 

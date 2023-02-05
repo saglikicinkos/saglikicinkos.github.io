@@ -157,7 +157,7 @@
 }
 
 .footer-col-3 {
-  width: calc(120% - (#{$spacing-unit} / 3));
+  width: calc(100% - (#{$spacing-unit} / 3));
 }
 
 @media screen and (min-width: $on-large) {

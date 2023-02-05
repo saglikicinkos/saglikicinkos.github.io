@@ -153,7 +153,7 @@
 
 .footer-col-1
 .footer-col-2 {
-  width: calc(50% - (#{$spacing-unit} / 2));
+  width: calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
@@ -185,7 +185,7 @@
 
     &:first-child {
       padding-right: $spacing-unit * .5;
-      padding-left: 0;
+      padding-left: 0.5;
     }
 
     &:last-child {

@@ -1,9 +1,3 @@
----
-permalink: /
-layout: home
-title: Ana Sayfa
-list_title: Blog
----
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5XCEL8VMFG"></script>
 <script>
@@ -13,4 +7,11 @@ list_title: Blog
 
   gtag('config', 'G-5XCEL8VMFG');
 </script>
+
+---
+permalink: /
+layout: home
+title: Blog
+---
+
 

@@ -5,9 +5,14 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+      {%- if site.author %}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
       </div>
-      <div class="footer-col-3">
+      <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>

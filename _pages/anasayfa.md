@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Blog
+title: 
 list_title: 
 ---
 <!-- Google tag (gtag.js) -->

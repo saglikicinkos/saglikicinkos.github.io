@@ -1,7 +1,8 @@
 title: saglikicinkos!
 description: Hayat bir maraton.
-author: mahir
-email: saglikicinkos@gmail.com
+author:
+  name: GitHub User
+  email: saglikicinkos@gmail.com
 
 theme: minima
 
@@ -9,14 +10,17 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-# Minima social links
-twitter_username: saglikicinkos
+# # Minima social links
+# twitter_username: saglikicinkos
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
+  
+  social_links:
+    - { platform: twitter,        user_url: "https://twitter.com/saglikicinkos" }
 
 # Minima: custom header links
 header_pages:

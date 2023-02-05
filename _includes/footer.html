@@ -5,11 +5,8 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-      {%- if site.author %}
-          {% if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.email }}</a></li>
-          {%- endif %}
-        </ul>
+      {% if site.email -%}
+        <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.email }}</a></li>
       {%- endif %}
       </div>
       <div class="footer-col-3">

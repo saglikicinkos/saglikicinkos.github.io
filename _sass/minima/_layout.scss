@@ -152,15 +152,13 @@
   bottom: $spacing-unit * .1;
 }
 
-.footer-col-1{
-  margin-left: 25px;
-},
+.footer-col-1,
 .footer-col-2 {
-  margin-left: 225px;
+  width: calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  margin-left: 300px;
+  width: calc(100% - (#{$spacing-unit} / 2));
 }
 
 

@@ -154,7 +154,7 @@
 }
 
 .footer-col-1 {
-  padding: 5px 5px 2px 0;
+  padding: 5px 5px 2px 10px;
 }
 
 .footer-col-2 {
@@ -163,7 +163,7 @@
 }
 
 .footer-col-3 {
-  width: calc(100% - (#{$spacing-unit} / 2));
+  width: calc(90% - (#{$spacing-unit} / 2));
 }
 
 

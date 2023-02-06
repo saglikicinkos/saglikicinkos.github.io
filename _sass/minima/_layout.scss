@@ -149,7 +149,16 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .25;
+  margin-bottom: $spacing-unit * .1;
+}
+
+.footer-col-1
+.footer-col-2 {
+  position: absolute; left: 100px bottom: 50px;
+}
+
+.footer-col-3 {
+  width: calc(100% - (#{$spacing-unit} / 2));
 }
 
 

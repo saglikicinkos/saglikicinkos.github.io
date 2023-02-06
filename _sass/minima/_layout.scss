@@ -151,9 +151,6 @@
 .footer-col {
   margin-bottom: $spacing-unit * .1;
   margin-left: 25px;
-  &:footer-col-2 {
-      padding-left: 3;
-    }
 }
 
 .footer-col-1 {
@@ -161,7 +158,7 @@
 }
 
 .footer-col-2 {
-  margin-left: 10px;
+  margin-left: 25px;
   padding-left: 1;
 }
 

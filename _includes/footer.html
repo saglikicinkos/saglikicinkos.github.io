@@ -4,17 +4,17 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col-1">
+      <div class="footer-col footer-col-1">
       {% if site.email -%}
         <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.email }}</a>
       {%- endif %}
       </div>
 
-      <div class="footer-col-2">
+      <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col-3">
+      <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>

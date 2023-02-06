@@ -152,15 +152,6 @@
   margin-bottom: $spacing-unit * .25;
 }
 
-.footer-col-1
-.footer-col-2 {
-  width: calc(40% - (#{$spacing-unit} / 2));
-  position: absolute; left: 100px bottom: 50px;
-}
-
-.footer-col-3 {
-  width: calc(100% - (#{$spacing-unit} / 2));
-}
 
 @media screen and (min-width: $on-large) {
   .footer-col-1 {

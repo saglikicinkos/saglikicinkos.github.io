@@ -153,11 +153,11 @@
 }
 
 .footer-col-1 {
-  width: calc(35% - (#{$spacing-unit} / 2));
+  padding: 5px 5px 2px 0;
 }
 
 .footer-col-2 {
-  position: absolute; left: 100px bottom: 50px;
+  padding: 5px 5px 10px 0;
 }
 
 .footer-col-3 {

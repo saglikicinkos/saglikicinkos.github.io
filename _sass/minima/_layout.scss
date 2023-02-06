@@ -152,7 +152,10 @@
   margin-bottom: $spacing-unit * .1;
 }
 
-.footer-col-1
+.footer-col-1 {
+  width: calc(35% - (#{$spacing-unit} / 2));
+}
+
 .footer-col-2 {
   position: absolute; left: 100px bottom: 50px;
 }

@@ -152,13 +152,15 @@
   bottom: $spacing-unit * .1;
 }
 
-.footer-col-1,
+.footer-col-1{
+  margin-left: 25px;
+},
 .footer-col-2 {
-  margin-left: 250px;
+  margin-left: 225px;
 }
 
 .footer-col-3 {
-  margin-left: 370px;
+  margin-left: 125px;
 }
 
 
